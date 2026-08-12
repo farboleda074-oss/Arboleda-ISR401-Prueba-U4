@@ -17,6 +17,7 @@ Sistema de Gestión de Pedidos — Modelado, Especificación, Priorización y Va
 ├── Imagen de evidencia 3.jpeg
 ├── Imagen de evidencia 4.jpeg
 ├── Imagen de evidencia 5.jpeg
+├── Imagen de evidencia 6.png
 └── README.md                   # Este archivo
 ```
 
